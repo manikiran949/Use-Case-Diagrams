@@ -1,11 +1,38 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36" version="26.0.7">
   <diagram name="Page-1" id="Te8EHBV-97OqTDzlu9V5">
-    <mxGraphModel dx="794" dy="446" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1784" dy="525" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="gUHT7tiN4UJdKw-qQdEV-1" value="Actor" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
-          <mxGeometry x="50" y="50" width="30" height="60" as="geometry" />
+        <mxCell id="gUHT7tiN4UJdKw-qQdEV-1" value="Student" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="60" y="80" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="gUHT7tiN4UJdKw-qQdEV-4" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="120" y="30" width="490" height="410" as="geometry" />
+        </mxCell>
+        <mxCell id="gUHT7tiN4UJdKw-qQdEV-5" value="&lt;b&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;HOSTEL MANAGEMENT SYSTEM&lt;/font&gt;&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="110" y="30" width="250" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="gUHT7tiN4UJdKw-qQdEV-6" value="MESS MANAGEMENT" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="690" y="180" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="gUHT7tiN4UJdKw-qQdEV-11" value="PAYMENTGATEWAY&amp;nbsp;&lt;div&gt;(AUTHENTICATION SERVER)&lt;/div&gt;" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="690" y="320" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="gUHT7tiN4UJdKw-qQdEV-12" value="NIT Silchar ADMINISTRATION" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="690" y="50" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="gUHT7tiN4UJdKw-qQdEV-15" value="STAFF" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="60" y="180" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="gUHT7tiN4UJdKw-qQdEV-19" value="Actor" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="-80" y="290" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="gUHT7tiN4UJdKw-qQdEV-20" value="Actor" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="-20" y="290" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="gUHT7tiN4UJdKw-qQdEV-21" value="Actor" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="40" y="290" width="30" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
